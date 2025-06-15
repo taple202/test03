@@ -1,0 +1,235 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+#uu_proxy127.100.163.1 avatars.akamai.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 avatars.cloudflare.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 avatars.fastly.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 avatars.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 cdn.akamai.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 cdn.cloudflare.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 cdn.fastly.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 cdn.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 clan.akamai.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 clan.cloudflare.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 clan.fastly.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 clan.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 community.akamai.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 community.cloudflare.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 community.fastly.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 community.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 shared.akamai.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 shared.cloudflare.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 shared.fastly.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 shared.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 store.akamai.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 store.cloudflare.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 store.fastly.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 store.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 video.akamai.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 video.cloudflare.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 video.fastly.steamstatic.com #uu_proxy
+#uu_proxy127.100.163.1 video.steamstatic.com #uu_proxy
+127.100.163.1 avatars.akamai.steamstatic.com #uu_proxy
+127.100.163.1 avatars.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 avatars.fastly.steamstatic.com #uu_proxy
+127.100.163.1 avatars.steamstatic.com #uu_proxy
+127.100.163.1 cdn.akamai.steamstatic.com #uu_proxy
+127.100.163.1 cdn.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 cdn.fastly.steamstatic.com #uu_proxy
+127.100.163.1 cdn.steamstatic.com #uu_proxy
+127.100.163.1 clan.akamai.steamstatic.com #uu_proxy
+127.100.163.1 clan.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 clan.fastly.steamstatic.com #uu_proxy
+127.100.163.1 clan.steamstatic.com #uu_proxy
+127.100.163.1 community.akamai.steamstatic.com #uu_proxy
+127.100.163.1 community.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 community.fastly.steamstatic.com #uu_proxy
+127.100.163.1 community.steamstatic.com #uu_proxy
+127.100.163.1 shared.akamai.steamstatic.com #uu_proxy
+127.100.163.1 shared.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 shared.fastly.steamstatic.com #uu_proxy
+127.100.163.1 shared.steamstatic.com #uu_proxy
+127.100.163.1 store.akamai.steamstatic.com #uu_proxy
+127.100.163.1 store.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 store.fastly.steamstatic.com #uu_proxy
+127.100.163.1 store.steamstatic.com #uu_proxy
+127.100.163.1 video.akamai.steamstatic.com #uu_proxy
+127.100.163.1 video.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 video.fastly.steamstatic.com #uu_proxy
+127.100.163.1 video.steamstatic.com #uu_proxy
+127.100.163.1 avatars.akamai.steamstatic.com #uu_proxy
+127.100.163.1 avatars.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 avatars.fastly.steamstatic.com #uu_proxy
+127.100.163.1 avatars.steamstatic.com #uu_proxy
+127.100.163.1 cdn.akamai.steamstatic.com #uu_proxy
+127.100.163.1 cdn.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 cdn.fastly.steamstatic.com #uu_proxy
+127.100.163.1 cdn.steamstatic.com #uu_proxy
+127.100.163.1 clan.akamai.steamstatic.com #uu_proxy
+127.100.163.1 clan.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 clan.fastly.steamstatic.com #uu_proxy
+127.100.163.1 clan.steamstatic.com #uu_proxy
+127.100.163.1 community.akamai.steamstatic.com #uu_proxy
+127.100.163.1 community.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 community.fastly.steamstatic.com #uu_proxy
+127.100.163.1 community.steamstatic.com #uu_proxy
+127.100.163.1 shared.akamai.steamstatic.com #uu_proxy
+127.100.163.1 shared.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 shared.fastly.steamstatic.com #uu_proxy
+127.100.163.1 shared.steamstatic.com #uu_proxy
+127.100.163.1 store.akamai.steamstatic.com #uu_proxy
+127.100.163.1 store.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 store.fastly.steamstatic.com #uu_proxy
+127.100.163.1 store.steamstatic.com #uu_proxy
+127.100.163.1 video.akamai.steamstatic.com #uu_proxy
+127.100.163.1 video.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 video.fastly.steamstatic.com #uu_proxy
+127.100.163.1 video.steamstatic.com #uu_proxy
+127.100.163.1 avatars.akamai.steamstatic.com #uu_proxy
+127.100.163.1 avatars.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 avatars.fastly.steamstatic.com #uu_proxy
+127.100.163.1 avatars.steamstatic.com #uu_proxy
+127.100.163.1 cdn.akamai.steamstatic.com #uu_proxy
+127.100.163.1 cdn.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 cdn.fastly.steamstatic.com #uu_proxy
+127.100.163.1 cdn.steamstatic.com #uu_proxy
+127.100.163.1 clan.akamai.steamstatic.com #uu_proxy
+127.100.163.1 clan.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 clan.fastly.steamstatic.com #uu_proxy
+127.100.163.1 clan.steamstatic.com #uu_proxy
+127.100.163.1 community.akamai.steamstatic.com #uu_proxy
+127.100.163.1 community.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 community.fastly.steamstatic.com #uu_proxy
+127.100.163.1 community.steamstatic.com #uu_proxy
+127.100.163.1 shared.akamai.steamstatic.com #uu_proxy
+127.100.163.1 shared.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 shared.fastly.steamstatic.com #uu_proxy
+127.100.163.1 shared.steamstatic.com #uu_proxy
+127.100.163.1 store.akamai.steamstatic.com #uu_proxy
+127.100.163.1 store.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 store.fastly.steamstatic.com #uu_proxy
+127.100.163.1 store.steamstatic.com #uu_proxy
+127.100.163.1 video.akamai.steamstatic.com #uu_proxy
+127.100.163.1 video.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 video.fastly.steamstatic.com #uu_proxy
+127.100.163.1 video.steamstatic.com #uu_proxy
+127.100.163.1 avatars.akamai.steamstatic.com #uu_proxy
+127.100.163.1 avatars.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 avatars.fastly.steamstatic.com #uu_proxy
+127.100.163.1 avatars.steamstatic.com #uu_proxy
+127.100.163.1 cdn.akamai.steamstatic.com #uu_proxy
+127.100.163.1 cdn.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 cdn.fastly.steamstatic.com #uu_proxy
+127.100.163.1 cdn.steamstatic.com #uu_proxy
+127.100.163.1 clan.akamai.steamstatic.com #uu_proxy
+127.100.163.1 clan.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 clan.fastly.steamstatic.com #uu_proxy
+127.100.163.1 clan.steamstatic.com #uu_proxy
+127.100.163.1 community.akamai.steamstatic.com #uu_proxy
+127.100.163.1 community.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 community.fastly.steamstatic.com #uu_proxy
+127.100.163.1 community.steamstatic.com #uu_proxy
+127.100.163.1 shared.akamai.steamstatic.com #uu_proxy
+127.100.163.1 shared.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 shared.fastly.steamstatic.com #uu_proxy
+127.100.163.1 shared.steamstatic.com #uu_proxy
+127.100.163.1 store.akamai.steamstatic.com #uu_proxy
+127.100.163.1 store.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 store.fastly.steamstatic.com #uu_proxy
+127.100.163.1 store.steamstatic.com #uu_proxy
+127.100.163.1 video.akamai.steamstatic.com #uu_proxy
+127.100.163.1 video.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 video.fastly.steamstatic.com #uu_proxy
+127.100.163.1 video.steamstatic.com #uu_proxy
+127.100.163.1 avatars.akamai.steamstatic.com #uu_proxy
+127.100.163.1 avatars.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 avatars.fastly.steamstatic.com #uu_proxy
+127.100.163.1 avatars.steamstatic.com #uu_proxy
+127.100.163.1 cdn.akamai.steamstatic.com #uu_proxy
+127.100.163.1 cdn.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 cdn.fastly.steamstatic.com #uu_proxy
+127.100.163.1 cdn.steamstatic.com #uu_proxy
+127.100.163.1 clan.akamai.steamstatic.com #uu_proxy
+127.100.163.1 clan.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 clan.fastly.steamstatic.com #uu_proxy
+127.100.163.1 clan.steamstatic.com #uu_proxy
+127.100.163.1 community.akamai.steamstatic.com #uu_proxy
+127.100.163.1 community.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 community.fastly.steamstatic.com #uu_proxy
+127.100.163.1 community.steamstatic.com #uu_proxy
+127.100.163.1 shared.akamai.steamstatic.com #uu_proxy
+127.100.163.1 shared.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 shared.fastly.steamstatic.com #uu_proxy
+127.100.163.1 shared.steamstatic.com #uu_proxy
+127.100.163.1 store.akamai.steamstatic.com #uu_proxy
+127.100.163.1 store.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 store.fastly.steamstatic.com #uu_proxy
+127.100.163.1 store.steamstatic.com #uu_proxy
+127.100.163.1 video.akamai.steamstatic.com #uu_proxy
+127.100.163.1 video.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 video.fastly.steamstatic.com #uu_proxy
+127.100.163.1 video.steamstatic.com #uu_proxy
+127.100.163.1 avatars.akamai.steamstatic.com #uu_proxy
+127.100.163.1 avatars.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 avatars.fastly.steamstatic.com #uu_proxy
+127.100.163.1 avatars.steamstatic.com #uu_proxy
+127.100.163.1 cdn.akamai.steamstatic.com #uu_proxy
+127.100.163.1 cdn.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 cdn.fastly.steamstatic.com #uu_proxy
+127.100.163.1 cdn.steamstatic.com #uu_proxy
+127.100.163.1 clan.akamai.steamstatic.com #uu_proxy
+127.100.163.1 clan.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 clan.fastly.steamstatic.com #uu_proxy
+127.100.163.1 clan.steamstatic.com #uu_proxy
+127.100.163.1 community.akamai.steamstatic.com #uu_proxy
+127.100.163.1 community.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 community.fastly.steamstatic.com #uu_proxy
+127.100.163.1 community.steamstatic.com #uu_proxy
+127.100.163.1 shared.akamai.steamstatic.com #uu_proxy
+127.100.163.1 shared.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 shared.fastly.steamstatic.com #uu_proxy
+127.100.163.1 shared.steamstatic.com #uu_proxy
+127.100.163.1 store.akamai.steamstatic.com #uu_proxy
+127.100.163.1 store.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 store.fastly.steamstatic.com #uu_proxy
+127.100.163.1 store.steamstatic.com #uu_proxy
+127.100.163.1 video.akamai.steamstatic.com #uu_proxy
+127.100.163.1 video.cloudflare.steamstatic.com #uu_proxy
+127.100.163.1 video.fastly.steamstatic.com #uu_proxy
+127.100.163.1 video.steamstatic.com #uu_proxy
+0.0.0.0 account.jetbrains.com 
+0.0.0.0 oauth.account.jetbrains.com 
+0.0.0.0 jrebel.npegeek.com 
+0.0.0.0 account.jetbrains.com 
+0.0.0.0 oauth.account.jetbrains.com 
+0.0.0.0 jrebel.npegeek.com 
+0.0.0.0 account.jetbrains.com 
+0.0.0.0 oauth.account.jetbrains.com 
+0.0.0.0 jrebel.npegeek.com 
+0.0.0.0 account.jetbrains.com 
+0.0.0.0 oauth.account.jetbrains.com 
+0.0.0.0 jrebel.npegeek.com 
+0.0.0.0 account.jetbrains.com 
+0.0.0.0 oauth.account.jetbrains.com 
+0.0.0.0 jrebel.npegeek.com 
+0.0.0.0 account.jetbrains.com 
+0.0.0.0 oauth.account.jetbrains.com 
+0.0.0.0 jrebel.npegeek.com 
